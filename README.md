@@ -9,7 +9,7 @@ https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js
 ## Bootstrap
 https://apps.bdimg.com/libs/bootstrap/3.3.4/js/bootstrap.min.js
 ## Holder
-https://apps.bdimg.com/libs/holder/2.3.1/holder.js
+https://apps.bdimg.com/libs/holder/2.3.1/holder.min.js
 ## MathJax
-https://cdnjs.cloudflare.com/ajax/libs/ma$thjax/2.7.1/MathJax.js?config=TeX-AMS\_HTML-f   
+https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML-f   
 
