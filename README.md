@@ -12,4 +12,8 @@ https://apps.bdimg.com/libs/bootstrap/3.3.4/js/bootstrap.min.js
 https://apps.bdimg.com/libs/holder/2.3.1/holder.min.js
 ## MathJax
 https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML-f   
-
+## highlight.js
+```html
+<link href="http://cdn.bootcss.com/highlight.js/8.0/styles/github.min.css" rel="stylesheet">
+<script src="http://cdn.bootcss.com/highlight.js/8.0/highlight.min.js"></script>
+```
